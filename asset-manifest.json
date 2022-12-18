@@ -1,7 +1,7 @@
 {
   "main.css": "/react-gh-actions-demo/static/css/main.9b5ef482.chunk.css",
-  "main.js": "/react-gh-actions-demo/static/js/main.9b67607b.chunk.js",
-  "main.js.map": "/react-gh-actions-demo/static/js/main.9b67607b.chunk.js.map",
+  "main.js": "/react-gh-actions-demo/static/js/main.18e79b08.chunk.js",
+  "main.js.map": "/react-gh-actions-demo/static/js/main.18e79b08.chunk.js.map",
   "static/js/1.95ea83b6.chunk.js": "/react-gh-actions-demo/static/js/1.95ea83b6.chunk.js",
   "static/js/1.95ea83b6.chunk.js.map": "/react-gh-actions-demo/static/js/1.95ea83b6.chunk.js.map",
   "static/js/2.fe9e49dc.chunk.js": "/react-gh-actions-demo/static/js/2.fe9e49dc.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/logo.svg": "/react-gh-actions-demo/static/media/logo.06e73328.svg",
   "static/css/main.9b5ef482.chunk.css.map": "/react-gh-actions-demo/static/css/main.9b5ef482.chunk.css.map",
   "index.html": "/react-gh-actions-demo/index.html",
-  "precache-manifest.7d8a155689390c0ad85424aa605eaa30.js": "/react-gh-actions-demo/precache-manifest.7d8a155689390c0ad85424aa605eaa30.js",
+  "precache-manifest.0c448301495725fc4434ced5fb2e5c92.js": "/react-gh-actions-demo/precache-manifest.0c448301495725fc4434ced5fb2e5c92.js",
   "service-worker.js": "/react-gh-actions-demo/service-worker.js"
 }
