@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Now, it's been changed automatically... Thanks to github actions...
+          Hello, World! The Github-Actions are awesome!
         </a>
       </header>
     </div>
